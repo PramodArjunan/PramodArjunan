@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pramod36733136" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pramod36733136" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pramod-nandhakumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pramod-nandhakumar" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_._nobodyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr_._nobodyy" height="30" width="40" /></a>
 </p>
 
